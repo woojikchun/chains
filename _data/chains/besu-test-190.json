@@ -1,0 +1,25 @@
+{
+	"name": "BESU Test Network for Ocean",
+	"chain": "besu",
+	"rpc": [
+		"http://besu-aio.aicommons.in:8545",
+		"wss://besu-aio.aicommons.in:8546"
+	],
+	"faucets": [],
+	"nativeCurrency": {
+		"name": "Ocean",
+		"symbol": "OCN",
+		"decimals": 18
+	},
+	"infoURL": "http://besu-aio.aicommons.in/doc",
+	"shortName": "besu",
+	"chainId": 1337,
+	"networkId": 1337,
+	"explorers": [
+		{
+			"name": "besuexplorer",
+			"url": "http://besu-aio.aicommons.in:26000",
+			"standard": "none"
+		}
+	]
+}
