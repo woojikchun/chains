@@ -1,0 +1,21 @@
+{
+    "name": "AiDataCommons Testnet",
+    "chain": "ADC",
+    "icon": "ADC",
+    "rpc": [
+      "http://39.119.118.180:8545",
+      "wss://39.119.118.180:8546"
+    ],
+    "faucets": [],
+    "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
+    "infoURL": "http://adc.ymetch.co.kr",
+    "shortName": "eth",
+    "chainId": 202207,
+    "networkId": 202207,
+    "explorers": [
+      {
+        "name": "Ethereum Lite Explorer",
+        "url": "http://39.119.118.185:8080/",
+      }
+    ]
+  }
